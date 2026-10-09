@@ -1,5 +1,3 @@
-# P1 Prenez en main votre formation de Data Analyst
-
 # Découverte du métier de Data Analyst
 
 Premier projet de ma formation Data Analyst chez OpenClassrooms.
